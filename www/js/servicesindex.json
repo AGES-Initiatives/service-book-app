@@ -1,0 +1,4820 @@
+{ 
+	"index-title": "AGES Digital Chant Stand<br>Calendar Index",
+	"index-descriptors":
+		[
+		],
+	"years":
+		[
+			{
+				"2016": 
+					[
+						{
+						"June":
+							[
+								{
+								"04-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/04/ve/en/se.m06.d05.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/04/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/04/ve/gr-en/se.m06.d05.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/04/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/04/ve/gr/se.m06.d05.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"05-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/05/ma/en/se.m06.d05.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/05/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/05/ma/gr-en/se.m06.d05.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/05/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/05/ma/gr/se.m06.d05.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/05/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/05/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/05/li/en/se.m06.d05.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/05/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/05/li/gr-en/se.m06.d05.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/05/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/05/li/gr/se.m06.d05.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"07-Tuesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/07/ve/en/se.m06.d08.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/07/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/07/ve/gr-en/se.m06.d08.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/07/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/07/ve/gr/se.m06.d08.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"08-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma/en/se.m06.d08.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma/gr-en/se.m06.d08.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma/gr/se.m06.d08.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Alt. Version 1:":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma1/en/se.pe.d109.ma1.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/ma1/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma1/gr-en/se.pe.d109.ma1.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/ma1/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma1/gr/se.pe.d109.ma1.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Alt. Version 3":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma3/en/se.pe.d109.ma3.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/ma3/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma3/gr-en/se.pe.d109.ma3.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/ma3/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ma3/gr/se.pe.d109.ma3.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/li/en/se.m06.d08.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/li/gr-en/se.m06.d08.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/08/li/gr/se.m06.d08.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Ninth Hour":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/h9/en/se.pe.d109.h9.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/h9/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/h9/gr-en/se.pe.d109.h9.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/h9/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/08/h9/gr/se.pe.d109.h9.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ve/en/se.m06.d09.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ve/gr-en/se.m06.d09.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/08/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/08/ve/gr/se.m06.d09.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"09-Thursday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/09/ma/en/se.m06.d09.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/09/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/09/ma/gr-en/se.m06.d09.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/09/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/09/ma/gr/se.m06.d09.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/09/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/09/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/09/li/en/se.m06.d09.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/09/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/09/li/gr-en/se.m06.d09.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/09/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/09/li/gr/se.m06.d09.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"11-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/11/ve/en/se.m06.d12.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/11/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/11/ve/gr-en/se.m06.d12.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/11/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/11/ve/gr/se.m06.d12.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"12-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/12/ma/en/se.m06.d12.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/12/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/12/ma/gr-en/se.m06.d12.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/12/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/12/ma/gr/se.m06.d12.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/12/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/12/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/12/li/en/se.m06.d12.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/12/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/12/li/gr-en/se.m06.d12.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/12/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/12/li/gr/se.m06.d12.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"16-Thursday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/16/ve/en/se.pe.d118.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/16/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/16/ve/gr-en/se.pe.d118.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/16/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/16/ve/gr/se.pe.d118.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"17-Friday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/17/ma/en/se.pe.d118.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/17/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/17/ma/gr-en/se.pe.d118.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/17/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/17/ma/gr/se.pe.d118.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/17/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/17/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/17/li/en/se.pe.d118.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/17/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/17/li/gr-en/se.pe.d118.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/17/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/17/li/gr/se.pe.d118.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/17/ve/en/se.m06.d18.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/17/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/17/ve/gr-en/se.m06.d18.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/17/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/17/ve/gr/se.m06.d18.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"18-Saturday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/18/ma/en/se.m06.d18.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/18/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/18/ma/gr-en/se.m06.d18.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/18/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/18/ma/gr/se.m06.d18.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/18/li/en/se.m06.d18.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/18/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/18/li/gr-en/se.m06.d18.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/18/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/18/li/gr/se.m06.d18.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/18/ve/en/se.m06.d19.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/18/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/18/ve/gr-en/se.m06.d19.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/18/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/18/ve/gr/se.m06.d19.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"19-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/19/ma/en/se.m06.d19.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/19/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/19/ma/gr-en/se.m06.d19.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/19/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/19/ma/gr/se.m06.d19.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/19/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/19/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/19/li/en/se.m06.d19.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/19/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/19/li/gr-en/se.m06.d19.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/19/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/19/li/gr/se.m06.d19.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/19/ve/en/se.m06.d20.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/19/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/19/ve/gr-en/se.m06.d20.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/19/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/19/ve/gr/se.m06.d20.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"20-Monday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/20/ma/en/se.m06.d20.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/20/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/20/ma/gr-en/se.m06.d20.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/20/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/20/ma/gr/se.m06.d20.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/20/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/20/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/20/li/en/se.m06.d20.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/20/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/20/li/gr-en/se.m06.d20.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/20/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/20/li/gr/se.m06.d20.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"23-Thursday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/23/ve/en/se.m06.d24.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/23/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/23/ve/gr-en/se.m06.d24.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/23/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/23/ve/gr/se.m06.d24.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"24-Friday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/24/ma/en/se.m06.d24.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/24/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/24/ma/gr-en/se.m06.d24.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/24/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/24/ma/gr/se.m06.d24.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/24/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/24/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/24/li/en/se.m06.d24.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/24/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/24/li/gr-en/se.m06.d24.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/24/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/24/li/gr/se.m06.d24.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"25-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/25/ve/en/se.m06.d26.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/25/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/25/ve/gr-en/se.m06.d26.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/25/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/25/ve/gr/se.m06.d26.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"26-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/26/ma/en/se.m06.d26.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/26/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/26/ma/gr-en/se.m06.d26.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/26/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/26/ma/gr/se.m06.d26.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/26/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/26/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/26/li/en/se.m06.d26.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/26/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/26/li/gr-en/se.m06.d26.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/26/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/26/li/gr/se.m06.d26.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"28-Tuesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/28/ve/en/se.m06.d29.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/28/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/28/ve/gr-en/se.m06.d29.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/28/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/28/ve/gr/se.m06.d29.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"29-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/29/ma/en/se.m06.d29.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/29/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/29/ma/gr-en/se.m06.d29.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/29/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/29/ma/gr/se.m06.d29.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/29/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/29/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/29/li/en/se.m06.d29.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/29/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/29/li/gr-en/se.m06.d29.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/29/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/29/li/gr/se.m06.d29.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/29/ve/en/se.m06.d30.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/29/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/29/ve/gr-en/se.m06.d30.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/29/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/29/ve/gr/se.m06.d30.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"30-Thursday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/30/ma/en/se.m06.d30.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/30/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/30/ma/gr-en/se.m06.d30.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/30/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/30/ma/gr/se.m06.d30.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/30/li/en/se.m06.d30.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/30/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/30/li/gr-en/se.m06.d30.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/30/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/30/li/gr/se.m06.d30.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/06/30/ve/en/se.m07.d01.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/06/30/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/06/30/ve/gr-en/se.m07.d01.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/06/30/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/06/30/ve/gr/se.m07.d01.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								}
+							] 
+						},
+						{
+						"July":
+							[
+								{
+								"01-Friday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/01/ma/en/se.m07.d01.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/01/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/01/ma/gr-en/se.m07.d01.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/01/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/01/ma/gr/se.m07.d01.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/01/li/en/se.m07.d01.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/01/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/01/li/gr-en/se.m07.d01.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/01/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/01/li/gr/se.m07.d01.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/01/ve/en/se.m07.d02.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/01/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/01/ve/gr-en/se.m07.d02.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/01/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/01/ve/gr/se.m07.d02.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"02-Saturday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/02/ma/en/se.m07.d02.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/02/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/02/ma/gr-en/se.m07.d02.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/02/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/02/ma/gr/se.m07.d02.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/02/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/02/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/02/li/en/se.m07.d02.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/02/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/02/li/gr-en/se.m07.d02.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/02/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/02/li/gr/se.m07.d02.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/02/ve/en/se.m07.d03.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/02/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/02/ve/gr-en/se.m07.d03.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/02/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/02/ve/gr/se.m07.d03.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"03-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/03/ma/en/se.m07.d03.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/03/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/03/ma/gr-en/se.m07.d03.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/03/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/03/ma/gr/se.m07.d03.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/03/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/03/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/03/li/en/se.m07.d03.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/03/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/03/li/gr-en/se.m07.d03.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/03/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/03/li/gr/se.m07.d03.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"04-Monday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/04/ve/en/se.m07.d05.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/04/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/04/ve/gr-en/se.m07.d05.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/04/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/04/ve/gr/se.m07.d05.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"05-Tuesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/05/ma/en/se.m07.d05.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/05/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/05/ma/gr-en/se.m07.d05.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/05/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/05/ma/gr/se.m07.d05.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/05/li/en/se.m07.d05.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/05/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/05/li/gr-en/se.m07.d05.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/05/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/05/li/gr/se.m07.d05.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"09-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/09/ve/en/se.m07.d10.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/09/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/09/ve/gr-en/se.m07.d10.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/09/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/09/ve/gr/se.m07.d10.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"10-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/10/ma/en/se.m07.d10.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/10/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/10/ma/gr-en/se.m07.d10.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/10/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/10/ma/gr/se.m07.d10.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/10/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/10/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/10/li/en/se.m07.d10.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/10/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/10/li/gr-en/se.m07.d10.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/10/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/10/li/gr/se.m07.d10.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/10/ve/en/se.m07.d11.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/10/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/10/ve/gr-en/se.m07.d11.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/10/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/10/ve/gr/se.m07.d11.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"11-Monday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/11/ma/en/se.m07.d11.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/11/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/11/ma/gr-en/se.m07.d11.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/11/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/11/ma/gr/se.m07.d11.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/11/li/en/se.m07.d11.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/11/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/11/li/gr-en/se.m07.d11.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/11/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/11/li/gr/se.m07.d11.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/11/ve/en/se.m07.d12.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/11/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/11/ve/gr-en/se.m07.d12.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/11/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/11/ve/gr/se.m07.d12.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"12-Tuesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/12/ma/en/se.m07.d12.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/12/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/12/ma/gr-en/se.m07.d12.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/12/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/12/ma/gr/se.m07.d12.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/12/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/12/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/12/li/en/se.m07.d12.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/12/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/12/li/gr-en/se.m07.d12.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/12/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/12/li/gr/se.m07.d12.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"16-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/16/ve/en/se.m07.d17.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/16/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/16/ve/gr-en/se.m07.d17.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/16/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/16/ve/gr/se.m07.d17.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"17-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/17/ma/en/se.m07.d17.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/17/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/17/ma/gr-en/se.m07.d17.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/17/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/17/ma/gr/se.m07.d17.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/17/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/17/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/17/li/en/se.m07.d17.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/17/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/17/li/gr-en/se.m07.d17.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/17/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/17/li/gr/se.m07.d17.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"19-Tuesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/19/ve/en/se.m07.d20.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/19/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/19/ve/gr-en/se.m07.d20.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/19/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/19/ve/gr/se.m07.d20.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"20-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/20/ma/en/se.m07.d20.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/20/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/20/ma/gr-en/se.m07.d20.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/20/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/20/ma/gr/se.m07.d20.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/20/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/20/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/20/li/en/se.m07.d20.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/20/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/20/li/gr-en/se.m07.d20.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/20/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/20/li/gr/se.m07.d20.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"21-Thursday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/21/ve/en/se.m07.d22.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/21/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/21/ve/gr-en/se.m07.d22.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/21/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/21/ve/gr/se.m07.d22.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"22-Friday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/22/ma/en/se.m07.d22.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/22/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/22/ma/gr-en/se.m07.d22.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/22/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/22/ma/gr/se.m07.d22.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/22/li/en/se.m07.d22.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/22/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/22/li/gr-en/se.m07.d22.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/22/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/22/li/gr/se.m07.d22.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"23-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/23/ve/en/se.m07.d24.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/23/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/23/ve/gr-en/se.m07.d24.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/23/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/23/ve/gr/se.m07.d24.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"24-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/24/ma/en/se.m07.d24.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/24/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/24/ma/gr-en/se.m07.d24.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/24/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/24/ma/gr/se.m07.d24.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/24/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/24/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/24/li/en/se.m07.d24.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/24/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/24/li/gr-en/se.m07.d24.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/24/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/24/li/gr/se.m07.d24.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/24/ve/en/se.m07.d25.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/24/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/24/ve/gr-en/se.m07.d25.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/24/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/24/ve/gr/se.m07.d25.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"25-Monday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/25/ma/en/se.m07.d25.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/25/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/25/ma/gr-en/se.m07.d25.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/25/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/25/ma/gr/se.m07.d25.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/25/li/en/se.m07.d25.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/25/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/25/li/gr-en/se.m07.d25.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/25/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/25/li/gr/se.m07.d25.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/25/ve/en/se.m07.d26.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/25/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/25/ve/gr-en/se.m07.d26.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/25/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/25/ve/gr/se.m07.d26.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"26-Tuesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/26/ma/en/se.m07.d26.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/26/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/26/ma/gr-en/se.m07.d26.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/26/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/26/ma/gr/se.m07.d26.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/26/li/en/se.m07.d26.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/26/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/26/li/gr-en/se.m07.d26.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/26/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/26/li/gr/se.m07.d26.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/26/ve/en/se.m07.d27.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/26/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/26/ve/gr-en/se.m07.d27.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/26/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/26/ve/gr/se.m07.d27.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"27-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/27/ma/en/se.m07.d27.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/27/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/27/ma/gr-en/se.m07.d27.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/27/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/27/ma/gr/se.m07.d27.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/27/li/en/se.m07.d27.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/27/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/27/li/gr-en/se.m07.d27.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/27/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/27/li/gr/se.m07.d27.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"30-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/30/ve/en/se.m07.d31.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/30/ve/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/30/ve/gr-en/se.m07.d31.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/30/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/30/ve/gr/se.m07.d31.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"31-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/31/ma/en/se.m07.d31.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/31/ma/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/31/ma/gr-en/se.m07.d31.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/31/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/31/ma/gr/se.m07.d31.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Matins - Customizable":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/31/ma2/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/31/ma2/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"EN":
+														[ 
+															{
+															"href": "p/s/2016/07/31/li/en/se.m07.d31.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"EN":
+														[ 
+															{
+															"href": "h/s/2016/07/31/li/en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/07/31/li/gr-en/se.m07.d31.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/07/31/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR":
+														[ 
+															{
+															"href": "p/s/2016/07/31/li/gr/se.m07.d31.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								}
+							] 
+						}
+					]
+			}
+		]
+}

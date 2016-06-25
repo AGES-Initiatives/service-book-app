@@ -1,0 +1,40 @@
+{
+  "name": "ReactTest",
+  "version": "0.0.1",
+  "description": "React and Cordova Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "express": "^4.13.4",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^4.0.1",
+    "grunt-contrib-less": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.2",
+    "load-grunt-tasks": "^3.4.1",
+    "redux-logger": "^2.6.1",
+    "watchify": "^3.7.0",
+    "weinre": "^2.0.0-pre-I0Z7U9OV"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "es6-promise": "^3.2.1",
+    "express": "^4.13.4",
+    "font-awesome": "^4.5.0",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^2.2.1",
+    "lodash": "^4.5.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-redux": "^4.4.0",
+    "redux": "^3.3.1",
+    "redux-thunk": "^2.1.0"
+  }
+}
